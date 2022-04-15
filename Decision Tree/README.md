@@ -1,7 +1,4 @@
-A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements. It is a hierarchical model for supervised learning whereby the local region is identified in a sequence of recursive split in a smaller number of steps. A decision tree is composed of internal decision nodes and terminal leaves.
-
-Decision trees are commonly used in operations research, specifically in decision analysis, to help identify a strategy most likely to reach a goal, but are also a popular tool in machine learning.
+A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements. It is a hierarchical model for supervised learning whereby the local region is identified in a sequence of recursive split in a smaller number of steps. A decision tree is composed of internal decision nodes and terminal leaves.Decision trees are commonly used in operations research, specifically in decision analysis, to help identify a strategy most likely to reach a goal, but are also a popular tool in machine learning.
 
 In this project, we have four synthetics data, each of data set have two feature and binary label. We also have one Pokemon's Legendary test file, which contain 45 feature, it also has binary label. We want to implement tree to classify the data.
      
-More detail can be find in Implement decision tree with python.pdf
